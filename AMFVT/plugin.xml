@@ -8,6 +8,9 @@
       <script
             class="com.amfvt.ui.smart.ExceptionalFlowsSmartView">
       </script>
+      <script
+            class="com.amfvt.ui.smart.IntegrityCheckerSmartView">
+      </script>
    </extension>
 
 </plugin>
