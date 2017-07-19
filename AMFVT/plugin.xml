@@ -11,6 +11,9 @@
       <script
             class="com.amfvt.ui.smart.IntegrityCheckerSmartView">
       </script>
+      <script
+            class="com.amfvt.ui.smart.SubsystemSmartView">
+      </script>
    </extension>
 
 </plugin>
