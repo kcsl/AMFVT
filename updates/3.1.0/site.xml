@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/AMFVT.feature_3.1.0.201707201628.jar" id="AMFVT.feature" version="3.1.0.201707201628">
-      <category name="com.amfvt.ui.smart"/>
+   <feature url="features/AMFVT.feature_3.1.0.201707201640.jar" id="AMFVT.feature" version="3.1.0.201707201640">
+      <category name="com.kcsl.amfvt"/>
    </feature>
-   <category-def name="com.amfvt.ui.smart" label="AMFVT">
+   <category-def name="com.kcsl.amfvt" label="AMFVT">
       <description>
          Android Malicious Flow Visualization Toolbox
       </description>
