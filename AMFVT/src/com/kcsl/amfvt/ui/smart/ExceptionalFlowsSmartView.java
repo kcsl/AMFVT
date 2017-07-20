@@ -1,4 +1,4 @@
-package com.amfvt.ui.smart;
+package com.kcsl.amfvt.ui.smart;
 
 import java.awt.Color;
 import java.util.HashMap;

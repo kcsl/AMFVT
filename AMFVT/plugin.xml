@@ -6,13 +6,13 @@
    <extension
          point="com.ensoftcorp.atlas.ui.smartViewScript">
       <script
-            class="com.amfvt.ui.smart.ExceptionalFlowsSmartView">
+            class="com.kcsl.amfvt.ui.smart.ExceptionalFlowsSmartView">
       </script>
       <script
-            class="com.amfvt.ui.smart.IntegrityCheckerSmartView">
+            class="com.kcsl.amfvt.ui.smart.IntegrityCheckerSmartView">
       </script>
       <script
-            class="com.amfvt.ui.smart.SubsystemSmartView">
+            class="com.kcsl.amfvt.ui.smart.SubsystemSmartView">
       </script>
    </extension>
 

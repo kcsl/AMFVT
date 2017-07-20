@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="AMFVT.feature"
-      label="Feature"
+      label="Android Malicious Flow Visualization Toolbox"
       version="3.1.0.qualifier"
-      provider-name="kcsl">
+      provider-name="KCSL">
 
    <description url="https://kcsl.github.io/AMFVT/">
       Android Malicious Flow Visualization Toolbox
@@ -36,6 +36,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
    </license>
+
+   <url>
+      <update label="https://kcsl.github.io/AMFVT/" url="https://kcsl.github.io/AMFVT/updates"/>
+   </url>
 
    <requires>
       <import plugin="com.ensoftcorp.open.jimple.commons" version="3.1.0" match="greaterOrEqual"/>
