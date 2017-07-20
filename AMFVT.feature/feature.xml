@@ -2,7 +2,7 @@
 <feature
       id="AMFVT.feature"
       label="Feature"
-      version="3.0.1.qualifier"
+      version="3.1.0.qualifier"
       provider-name="kcsl">
 
    <description url="https://kcsl.github.io/AMFVT/">
