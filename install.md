@@ -4,7 +4,7 @@ title: Install
 permalink: /install/
 ---
 
-Installing the Android Malicious Flow Visualization Toolbox(AMFVT) Eclipse plugin is easy.  It is recommended to install the plugin from the provided update site, but it is also possible to install from source.
+Installing the Android Malicious Flow Visualization Toolbox (AMFVT) Eclipse plugin is easy.  It is recommended to install the plugin from the provided update site, but it is also possible to install from source.
         
 ### Installing from Update Site
 Follow the steps below to install the AMFVT plugin from the Eclipse update site.
