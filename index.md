@@ -19,7 +19,7 @@ Interactive features supported by the visualization capabilities include:
 2. Automatic recomputation on change of selection: an analyst can click to select a specific code artifact, and the smart view is automatically recomputed and displayed corresponding to the new selection
 3. Smart views are composable: selecting a code artifact from the output of one smart view can be used as input to another smart view
 
-<em>More visualization capabilities can be easily added to the toolbox. We are currently working to integrate an Intent Resolution Smart View to visualize flows between apps via Intents.</em>
+<em>Note: More visualization capabilities can be easily added to the toolbox. We are currently working to integrate an Intent Resolution Smart View to visualize flows between apps via Intents.</em>
 
 ## Getting Started
 Ready to get started?
