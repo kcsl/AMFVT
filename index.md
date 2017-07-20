@@ -8,17 +8,18 @@ The Android Malicious Flow Visualization Toolbox empowers a human analyst to det
 ## Visualization Capabilities
 The Android Malicious Flow Visualization Toolbox (AMFVT) project supports the following interactive visualization capabilities.
 
-- Android Subsystem Interaction Smart View: Visualize interactions of the app with various sub-systems of Android via data and control flow
-- Exceptional Flow Smart View: Visualize howexceptions thrown and caught by the app may amount to maliciousbehavior by the agency of Java’s exception flow semantics
-- Integrity Checker Smart View: Visualize how sensitive data may be modified by the app leading toan integrity breach
+1. Android Subsystem Interaction Smart View: Visualize interactions of the app with various sub-systems of Android via data and control flow
+2. Exceptional Flow Smart View: Visualize how exceptions thrown and caught by the app may amount to malicious behavior by the agency of Java’s exception flow semantics
+3. Integrity Checker Smart View: Visualize how sensitive data may be modified by the app leading toan integrity breach
 
 ## Features
 Interactive features supported by the visualization capabilities include:
 
-- Source correspondence
-- Automatic recomputation on change of selection: an analyst can click to select a specific code artifact, and the smart view is automatically recomputed and displayed corresponding to the new selection
-- Analyst can select code artifacts from the source as well as elements of the graphs produced by a smart view
-- Smart views are composable: selecting a code artifact from the output of one smart view can be used as input to another smart view
+1. Source correspondence: an analyst can click on a graph element from a smart view result to go to the corresponding source code location, and vice versa
+2. Automatic recomputation on change of selection: an analyst can click to select a specific code artifact, and the smart view is automatically recomputed and displayed corresponding to the new selection
+3. Smart views are composable: selecting a code artifact from the output of one smart view can be used as input to another smart view
+
+<em>More visualization capabilities can be easily added to the toolbox. We are currently working to integrate an Intent Resolution Smart View to visualize flows between apps via Intents.</em>
 
 ## Getting Started
 Ready to get started?
