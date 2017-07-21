@@ -14,7 +14,7 @@ For analyzing an Android source application, you will need the ability to compil
 ## Using the toolbox
 
 1. Import the Android app's source code (if available) or APK into the eclipse workspace.
-2. Click `Atlas` &rarr; `Manage Project Settings` and select the imported Android app project to add to the code map. Click `Save \& Remap` to finish. 
+2. Click `Atlas` &rarr; `Manage Project Settings` and select the imported Android app project to add to the code map. Click `Save & Remap` to finish. 
 2. Click `Atlas` &rarr; `Open Smart View` and select the required smart view from the dropdown displayed at the bottom of the smart view panel. Multiple smart views can be opened at the same time by repeating this step. 
 3. Select an input for the smart view by clicking on a source code artifact in the app or by selecting a graph element from the result of another smart view. 
 4. The smart view instantly updates in response to the new selection (if the selection is applicable to the smart view, e.g., the integrity checker smart view responds only when the new selection is a data flow artifact such as variable, parameter, etc.; otherwise it remains unchanged).
